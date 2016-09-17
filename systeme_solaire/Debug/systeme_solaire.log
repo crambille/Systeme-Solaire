@@ -1,0 +1,13 @@
+﻿La génération a démarré 18/12/2015 21:33:04.
+     1>Projet "C:\Users\andriot\documents\visual studio 2013\Projects\systeme_solaire\systeme_solaire\systeme_solaire.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\andriot\documents\visual studio 2013\Projects\systeme_solaire\Debug\systeme_solaire.exe" /INCREMENTAL /NOLOGO opengl32.lib glut32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\andriot\documents\visual studio 2013\Projects\systeme_solaire\Debug\systeme_solaire.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\andriot\documents\visual studio 2013\Projects\systeme_solaire\Debug\systeme_solaire.lib" /MACHINE:X86 Debug\Source.obj
+         systeme_solaire.vcxproj -> C:\Users\andriot\documents\visual studio 2013\Projects\systeme_solaire\Debug\systeme_solaire.exe
+     1>Génération du projet "C:\Users\andriot\documents\visual studio 2013\Projects\systeme_solaire\systeme_solaire\systeme_solaire.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:07.51
